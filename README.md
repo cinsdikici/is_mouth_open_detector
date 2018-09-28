@@ -11,3 +11,5 @@ Hello everyone! It is a program for detect to mouth and select mouth open or not
 3-)You can use this for video: find_and_mark_face_parts_on_webcam_or_video('video_path',hold = 4)
 
 'hold' means min euclidean for choose close. It is multivariable.
+
+![Alt Text](https://giphy.com/gifs/9JnIwwgwiQm4NqJ8ud)
