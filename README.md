@@ -12,4 +12,4 @@ Hello everyone! It is a program for detect to mouth and select mouth open or not
 
 'hold' means min euclidean for choose close. It is multivariable.
 
-![Alt Text](https://media.giphy.com/media/9JnIwwgwiQm4NqJ8ud/200w_d.gif)
+![Alt Text](https://media.giphy.com/media/9JnIwwgwiQm4NqJ8ud/giphy.gif)
